@@ -1,0 +1,354 @@
+[
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":0,
+    "text":"Recent indicators suggest that economic activity has been expanding at a solid pace",
+    "char_length":83,
+    "word_count":13
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":1,
+    "text":"Job gains have moderated since early last year but remain strong, and the unemployment rate has remained low",
+    "char_length":108,
+    "word_count":18
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":2,
+    "text":"Inflation has eased over the past year but remains elevated",
+    "char_length":59,
+    "word_count":10
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":3,
+    "text":"The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run",
+    "char_length":108,
+    "word_count":19
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":4,
+    "text":"The Committee judges that the risks to achieving its employment and inflation goals are moving into better balance",
+    "char_length":114,
+    "word_count":18
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":5,
+    "text":"The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks",
+    "char_length":96,
+    "word_count":14
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":6,
+    "text":"In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1\/4 to 5-1\/2 percent",
+    "char_length":128,
+    "word_count":23
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":7,
+    "text":"In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks",
+    "char_length":176,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":8,
+    "text":"The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "char_length":172,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":9,
+    "text":"In addition, the Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities, as described in its previously announced plans",
+    "char_length":187,
+    "word_count":26
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":10,
+    "text":"The Committee is strongly committed to returning inflation to its 2 percent objective",
+    "char_length":85,
+    "word_count":13
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":11,
+    "text":"In assessing the appropriate stance of monetary policy, the Committee will continue to monitor the implications of incoming information for the economic outlook",
+    "char_length":160,
+    "word_count":23
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":12,
+    "text":"The Committee would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that could impede the attainment of the Committee's goals",
+    "char_length":160,
+    "word_count":26
+  },
+  {
+    "statement_date":"2024-01-31",
+    "filename":"fomc_2024_01_31_statement.txt",
+    "sentence_id":13,
+    "text":"The Committee's assessments will take into account a wide range of information, including readings on labor market conditions, inflation pressures and inflation expectations, and financial and international developments.",
+    "char_length":220,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":0,
+    "text":"Recent indicators suggest that economic activity has been expanding at a solid pace",
+    "char_length":83,
+    "word_count":13
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":1,
+    "text":"Job gains have remained strong, and the unemployment rate has remained low",
+    "char_length":74,
+    "word_count":12
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":2,
+    "text":"Inflation has eased over the past year but remains elevated",
+    "char_length":59,
+    "word_count":10
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":3,
+    "text":"The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run",
+    "char_length":108,
+    "word_count":19
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":4,
+    "text":"The Committee judges that the risks to achieving its employment and inflation goals are moving into better balance",
+    "char_length":114,
+    "word_count":18
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":5,
+    "text":"The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks",
+    "char_length":96,
+    "word_count":14
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":6,
+    "text":"In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1\/4 to 5-1\/2 percent",
+    "char_length":128,
+    "word_count":23
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":7,
+    "text":"In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks",
+    "char_length":176,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":8,
+    "text":"The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "char_length":172,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":9,
+    "text":"In addition, the Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities, as described in its previously announced plans",
+    "char_length":187,
+    "word_count":26
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":10,
+    "text":"The Committee is strongly committed to returning inflation to its 2 percent objective",
+    "char_length":85,
+    "word_count":13
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":11,
+    "text":"In assessing the appropriate stance of monetary policy, the Committee will continue to monitor the implications of incoming information for the economic outlook",
+    "char_length":160,
+    "word_count":23
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":12,
+    "text":"The Committee would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that could impede the attainment of the Committee's goals",
+    "char_length":160,
+    "word_count":26
+  },
+  {
+    "statement_date":"2024-03-20",
+    "filename":"fomc_2024_03_20_statement.txt",
+    "sentence_id":13,
+    "text":"The Committee's assessments will take into account a wide range of information, including readings on labor market conditions, inflation pressures and inflation expectations, and financial and international developments.",
+    "char_length":220,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":0,
+    "text":"Recent indicators suggest that economic activity has continued to expand at a solid pace",
+    "char_length":88,
+    "word_count":14
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":1,
+    "text":"Job gains have remained strong, and the unemployment rate has remained low",
+    "char_length":74,
+    "word_count":12
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":2,
+    "text":"Inflation has eased over the past year but remains elevated",
+    "char_length":59,
+    "word_count":10
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":3,
+    "text":"In recent months, there has been a lack of further progress toward the Committee's 2 percent inflation objective",
+    "char_length":112,
+    "word_count":18
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":4,
+    "text":"The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run",
+    "char_length":108,
+    "word_count":19
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":5,
+    "text":"The Committee judges that the risks to achieving its employment and inflation goals have moved toward better balance over the past year",
+    "char_length":135,
+    "word_count":22
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":6,
+    "text":"The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks",
+    "char_length":96,
+    "word_count":14
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":7,
+    "text":"In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1\/4 to 5-1\/2 percent",
+    "char_length":128,
+    "word_count":23
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":8,
+    "text":"In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks",
+    "char_length":176,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":9,
+    "text":"The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "char_length":172,
+    "word_count":28
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":10,
+    "text":"In addition, the Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage\u2011backed securities",
+    "char_length":139,
+    "word_count":19
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":11,
+    "text":"Beginning in June, the Committee will slow the pace of decline of its securities holdings by reducing the monthly redemption cap on Treasury securities from $60 billion to $25 billion",
+    "char_length":183,
+    "word_count":30
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":12,
+    "text":"The Committee will maintain the monthly redemption cap on agency debt and agency mortgage\u2011backed securities at $35 billion and will reinvest any principal payments in excess of this cap into Treasury securities",
+    "char_length":210,
+    "word_count":32
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":13,
+    "text":"The Committee is strongly committed to returning inflation to its 2 percent objective",
+    "char_length":85,
+    "word_count":13
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":14,
+    "text":"In assessing the appropriate stance of monetary policy, the Committee will continue to monitor the implications of incoming information for the economic outlook",
+    "char_length":160,
+    "word_count":23
+  },
+  {
+    "statement_date":"2024-05-01",
+    "filename":"fomc_2024_05_01_statement.txt",
+    "sentence_id":15,
+    "text":"The Committee would be prepared to adjust the stance of monetary policy as appropriate if ris",
+    "char_length":93,
+    "word_count":16
+  }
+]

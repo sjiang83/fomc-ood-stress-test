@@ -1,0 +1,14 @@
+{
+  "processing_date": "2025-12-10T16:01:48.091870",
+  "num_statements": 3,
+  "num_sentences": 44,
+  "date_range": {
+    "start": "2024-01-31",
+    "end": "2024-05-01"
+  },
+  "files_processed": [
+    "fomc_2024_01_31_statement.txt",
+    "fomc_2024_03_20_statement.txt",
+    "fomc_2024_05_01_statement.txt"
+  ]
+}
